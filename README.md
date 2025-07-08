@@ -59,7 +59,7 @@ Sales Trends:
 
 •	Apple Iphone is surprisingly underperforming while its other 2 products have been wildly successful. This could possibly be due to consumer preference for smartphone selection or higher competition and pricing in the smartphone market.
 
-•	The top 4 products all saw a sharp spike in 2020 YoY growth, with MacBook Air Laptop showing the strongest jump at **384%** followed by ThinkPad Laptop at 222% likely driven by remote work and e-learning needs during the pandemic. However, in 2021 both products had the steepest declines  with ThinkPad Laptop dropping -20% in YoY growth and MacBook Air Laptop dropping -35% indicating possible market saturation or reduced demand.
+•	The top 4 products all saw a sharp positive spike in 2020 YoY growth, with MacBook Air Laptop showing the strongest jump at **384%** followed by ThinkPad Laptop at 222% likely driven by remote work and e-learning needs during the pandemic. However, in 2021 both products had the steepest declines  with ThinkPad Laptop dropping -20% in YoY growth and MacBook Air Laptop dropping -35% indicating possible market saturation or reduced demand.
 ![2025-07-08_12h09_57](https://github.com/user-attachments/assets/f978c0d6-f53c-4b69-adcf-67a0dc246ea1)
 ![2025-07-08_12h14_23](https://github.com/user-attachments/assets/5cb63eda-f0de-4ce9-b603-9fefe65b8b2a)
 
