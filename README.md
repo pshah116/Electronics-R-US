@@ -101,11 +101,11 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 ![2025-07-08_12h54_24](https://github.com/user-attachments/assets/dc65616b-8c70-4f5c-90e6-7203156d6453)
 
 ## Refund Rates
-• A total of 5,370 total refunds were processed between 2019 and 2022, **>83% of all refunds came from North America and EMEA**.  This aligns with their high sales volume, as greater revenue often leads to a higher number of returns.
+•**A total of 5,370 total refunds were processed between 2019 and 2022, and >83% of all refunds came from North America and EMEA**.  This aligns with their high sales volume, as greater revenue often leads to a higher number of returns.
 
-• From 2019 to 2021, Apple products specifically AirPods and MacBook Air consistently had the highest refund rates—peaking at 28% and 15%, respectively, in 2020. **Apple refunds accounted for a major portion of total refunds in those years with >50% of all refunds per year**. However, refund rates significantly dropped across all products in 2021 and reached **0% refund rate in 2022**, indicating improvement in product satisfaction or return policies.
+•**From 2019 to 2021, Apple products (AirPods and MacBook Air Laptop) had the highest refund rates** peaking at **28%** and **15%**, in 2020. **Apple refunds accounted for a major portion of total refunds in those years with >50% of all refunds per year**. Refund rates significantly dropped across all products in 2021 and reached **0% refund rate in 2022**, indicating improvement in product satisfaction or return policies.
 
-• On average, loyalty members had 76 more refunds per year than non loyalty members. Overall Loyalty members had 12% more refunds than non loyalty members. The biggest gap occurred in 2022, where loyalty refunds were 6.5% higher than non-loyalty refunds, highlighting a need to monitor return behavior among members in the future. 
+•Loyalty members averaged **76 more refunds per year** than non-loyalty members. In 2022, loyalty refunds were **6.5% higher**, indicating a need to monitor return trends among engaged members 
 ![2025-07-08_13h06_17](https://github.com/user-attachments/assets/1f5fedd8-26eb-468d-8220-e7400675e09f)
 
 ![2025-07-08_13h09_33](https://github.com/user-attachments/assets/9e659a12-b610-4340-bea3-e0a16c186d66)
