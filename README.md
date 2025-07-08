@@ -46,7 +46,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 ## Deep Dive Insights
 **Sales Trends:**
 
-•	Across all years, there is a strong seasonal peak in Q4 especially November & December consistently showing an increase in sales, after a drop in sales from October, this is possibly attributed to the holiday shopping seasonality (Black Friday and year-end promotions).
+•	Across all years, there is a strong **seasonal peak in Q4** especially November & December consistently showing an increase in sales, after a drop in sales from October, this is possibly attributed to the holiday shopping seasonality (Black Friday and year-end promotions).
 
 
 •	2020 experienced the highest growth in every month for all major KPI's such as total sales, order count, and AOV, particularly from April through September, likely influenced by pandemic-driven e-commerce surges. Notably, April, May, June, and August 2020 all had **>200%** **YoY sales growth**, suggesting a strong mid-year acceleration.
