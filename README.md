@@ -60,14 +60,17 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 ![2025-07-08_12h06_13](https://github.com/user-attachments/assets/0ff12818-7f6b-42ab-a014-3ae320d39f13)
 
 ## Product Performance
-•	**The 27 inch 4K Gaming Monitor, Apple Airpods Headphones, and MacBook Air Laptop together account for >84%** of total revenue, highlighting their critical importance in the product portfolio.
+•	**The 27 inch 4K Gaming Monitor, Apple Airpods Headphones, and MacBook Air Laptop together account for >84% of total revenue**, highlighting their critical importance in the product portfolio.
 
-•	Bose SoundSport Headphones have significantly underperformed—generating  **less than 1%** of total revenue despite an AOV of $35 cheaper than Apple AirPods. This suggests that lower price alone hasn’t translated into higher demand.
+•	**Bose SoundSport Headphones have significantly underperformed generating  less than 1% of total revenue** despite an AOV of $35 cheaper than Apple AirPods. This suggests that lower price alone hasn’t translated into higher demand.
 
-•	Apple Iphone is surprisingly underperforming while its other 2 products have been wildly successful. This could possibly be due to consumer preference for smartphone selection or higher competition and pricing in the smartphone market.
+•	**Apple Iphone surprisingly underperformed** while its other 2 products have been wildly successful. This could possibly be due to consumer preference for smartphone selection or higher competition and pricing in the smartphone market.
 
-•	**The top 4 products all saw a sharp positive spike in 2020 YoY growth**, with MacBook Air Laptop showing the strongest jump at **384%** followed by ThinkPad Laptop at **222%** likely driven by remote work and e-learning needs during the pandemic. However, in **2021 both products had the steepest declines  with ThinkPad Laptop dropping -20% in YoY growth and MacBook Air Laptop dropping -35%** indicating possible market saturation or reduced demand.
+•	**The top 4 products all saw a sharp positive spike in 2020 YoY growth**, with MacBook Air Laptop showing the strongest jump at **384%** followed by ThinkPad Laptop at **222%** likely driven by remote work and e-learning needs during the pandemic. 
+
+• **In 2021 both products had the steepest declines** with **ThinkPad Laptop down 20%** and **MacBook Air Laptop down 35%** indicating possible market saturation or reduced demand.
 ![2025-07-08_12h09_57](https://github.com/user-attachments/assets/f978c0d6-f53c-4b69-adcf-67a0dc246ea1)
+
 ![2025-07-08_12h14_23](https://github.com/user-attachments/assets/5cb63eda-f0de-4ce9-b603-9fefe65b8b2a)
 
 ## Loyalty Program
