@@ -86,7 +86,7 @@ Sales Trends:
 ![2025-07-08_12h54_24](https://github.com/user-attachments/assets/dc65616b-8c70-4f5c-90e6-7203156d6453)
 
 ## Refund Rates
-• Between 2019 and 2022, 5,370 refunds were issued and >83% came from North America and EMEA. This aligns with their high sales volume, as greater revenue often leads to a higher number of returns.
+• Between 2019 and 2022, 5,370 refunds were issued and **>83%** came from North America and EMEA. This aligns with their high sales volume, as greater revenue often leads to a higher number of returns.
 
 • From 2019 to 2021, Apple products specifically AirPods and MacBook Air consistently had the highest refund rates—peaking at 28% and 15%, respectively, in 2020. Apple refunds accounted for a major portion of total refunds in those years with a **>50% of all refunds per year**. However, refund rates significantly dropped across all products in 2021 and reached 0% in 2022, indicating improvement in product satisfaction or return policies.
 
@@ -112,7 +112,9 @@ Loyalty Program Performance:
 
 • Continue investing in the loyalty program, as members outperformed non-members in 2021 and 2022 across key KPIs such as higher total orders, greater sales, and stronger average order value(AOV).
 
-•Focus marketing on Direct Marketing Channel which had the highest signup rate (40%) and a total of 23.5K loyalty member signups and Email Marketing Channel which generated 59% signup rate with 8K signups
+• Prioritize direct and email channels, as they have driven the highest number of signups and demonstrate strong conversion rates:
+--Direct Marketing Channel signup rate 40% with 23.5K signups 
+--Email Marketing Channel signup rate 59% with 8K signups
 
 Refund monitoring:
 
