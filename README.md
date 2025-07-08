@@ -88,7 +88,7 @@ Sales Trends:
 ## Refund Rates
 • Between 2019 and 2022, 5,370 refunds were issued and >83% came from North America and EMEA. This aligns with their high sales volume, as greater revenue often leads to a higher number of returns.
 
-• From 2019 to 2021, Apple AirPods and MacBook Air consistently had the highest refund rates—peaking at 28% and 15%, respectively, in 2020. Apple refunds accounted for a major portion of total refunds in those years (>50% of all refunds per year). However, refund rates significantly dropped across all products in 2021 and reached 0% in 2022, indicating improvement in product satisfaction or return policies.
+• From 2019 to 2021, Apple products specifically AirPods and MacBook Air consistently had the highest refund rates—peaking at 28% and 15%, respectively, in 2020. Apple refunds accounted for a major portion of total refunds in those years (>50% of all refunds per year). However, refund rates significantly dropped across all products in 2021 and reached 0% in 2022, indicating improvement in product satisfaction or return policies.
 
 • On average, loyalty members had 76 more refunds per year than non loyalty members. Overall Loyalty members had 12% more refunds from 2019–2022 than non loyalty members. The biggest gap occurred in 2022, where loyalty refunds were 6.5% higher than non-loyalty refunds, highlighting a need to monitor return behavior among members in the future. 
 ![2025-07-08_13h06_17](https://github.com/user-attachments/assets/1f5fedd8-26eb-468d-8220-e7400675e09f)
