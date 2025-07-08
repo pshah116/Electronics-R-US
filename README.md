@@ -110,7 +110,7 @@ Global Impact:
 Loyalty Program Performance:
 • Continue investing in the loyalty program, as members outperformed non-members in 2021 and 2022 across key KPIs such as higher total orders, greater sales, and stronger average order value(AOV).
 
-• Slightly higher refund volume among loyalty members should not discourage program continuation, as customer growth, AOV, total orders and revenue has surpassed non loyalty members since 2021
+•Focus marketing on Direct Marketing Channel which had the highest signup rate (40%) and a total of 23.5K loyalty member signups and Email Marketing Channel which generated 59% signup rate with 8K signups
 
 Refund monitoring:
 •Investigate recurring issues with MacBook Air Laptops and Apple AirPods Headphones by reviewing customer feedback, and return reasons to identify root causes and implement product or service improvement.
