@@ -51,7 +51,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 •	Across all years, there is a strong **seasonal peak in Q4** with **November & December consistently outperforming** in sales, following a sales dip in October, this is possibly attributed to the holiday shopping seasonality (Black Friday and year-end promotions).
 
 
-•	**2020 experienced the highest growth in every month for all major KPI's such as total sales, order count, and AOV.** This is likely influenced by pandemic-driven e-commerce surges. Notably, **April-August 2020 each had >200% YoY sales growth**, suggesting a strong mid-year acceleration.
+•	**2020 experienced the highest growth in every month for all major KPI's such as total sales, order count, and AOV.** This is likely influenced by pandemic-driven e-commerce surges. Notably, **April-August 2020 each had >200% YoY monthly sales growth**, suggesting a strong mid-year acceleration.
 
 •	**2022 shows significant declines** in all KPIs, especially in Q4 showing **YoY total sales dropping >70%**, indicating either market saturation, economic slowdown, or reduced promotional effectiveness.
 
