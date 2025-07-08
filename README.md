@@ -78,7 +78,7 @@ Electronics R US , a digital electronics retailer launched in 2019, has rapidly 
 ## Regional Analysis
 • North America continues to dominate, generating **over 91%** of its regional sales from the U.S. alone and contributing  **>$14M** in total sales—by far the highest globally. Despite a YoY dip in 2022, its overall market strength consistently remained above **50%** total sales revenue from 2019-2022. 
 
-•North America and EMEA had the highest sales however APAC had the highest compound growth rate across the 4-year span (In 2020 they outperformed every region with a YoY 213% growth), showing early explosive expansion.
+•North America and EMEA had the highest sales however **APAC had the highest compound growth rate** across the 4-year span (In 2020 they outperformed every region with a YoY 213% growth), showing early explosive expansion.
 
 •The **27-inch 4K Gaming Monitor is a global bestseller**, leading in **16 out of the 21 countries**, making it a key product to continue pushing in both mature and emerging markets.
 ![2025-07-08_12h56_02](https://github.com/user-attachments/assets/ceaad4e0-4088-4a3a-9c2a-0daa75125b7c)
