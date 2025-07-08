@@ -39,7 +39,7 @@ Electronics R US , a digital electronics retailer launched in 2019, has rapidly 
 •	Top 3 selling products was the 27 inch gaming monitor, Apple Airpods Headphones and Macbook Air laptop
 
 ## Deep Dive Insights
-Sales Trends:
+**Sales Trends:**
 
 •	Across all years, there is a strong seasonal peak in Q4 especially November & December consistently showing an increase in sales, after a drop in sales from October, this is possibly attributed to the holiday shopping seasonality (Black Friday and year-end promotions).
 
@@ -96,19 +96,19 @@ Sales Trends:
 ![2025-07-08_13h09_51](https://github.com/user-attachments/assets/080b5e46-ac26-4f30-aeeb-8f759219dea2)
 
 ## Recommendations
-Product Outreach: 
+**Product Outreach:** 
 
 • Diversify the product mix. Over 85% of total revenue is concentrated in just three products: the 27" Gaming Monitor, MacBook Air Laptop, and Apple AirPod Headphones. This limits growth potential. Consider expanding more products similar to these to expand growth.
 
 • Discontinue or reposition low-performing products such as Bose SoundSport Headphones which contributed only 0.01% of total sales over 4 years. Bundle this product with compatible devices or offer clearance pricing to reduce excess inventory.
 
-Global Impact:
+**Global Impact:**
 
 •	Focus resources on high-revenue markets. North America and EMEA generated >75% of dominant sales share. Continue investing in these regions while exploring growth opportunities in LATAM and APAC through localized campaigns and pricing adjustments.
 
 •	Maximize potential in high-AOV countries  like Australia ($392 AOV), Denmark ($353), and Israel ($302) present opportunities for premium product upsells or bundles due to their demonstrated willingness to spend more per transaction
 
-Loyalty Program Performance:
+**Loyalty Program Performance:**
 
 • Continue investing in the loyalty program, as members outperformed non-members in 2021 and 2022 across key KPIs such as higher total orders, greater sales, and stronger average order value(AOV).
 
@@ -116,7 +116,7 @@ Loyalty Program Performance:
 --Direct Marketing Channel signup rate 40% with 23.5K signups 
 --Email Marketing Channel signup rate 59% with 8K signups
 
-Refund monitoring:
+**Refund monitoring:**
 
 •Investigate recurring issues with MacBook Air Laptops and Apple AirPods Headphones by reviewing customer feedback, and return reasons to identify root causes and implement product or service improvement.
 
