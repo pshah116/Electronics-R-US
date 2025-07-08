@@ -53,7 +53,7 @@ Sales Trends:
 ![2025-07-08_12h06_13](https://github.com/user-attachments/assets/0ff12818-7f6b-42ab-a014-3ae320d39f13)
 
 ## Product Performance
-•	The 27 inch 4K Gaming Monitor, Apple Airpods Headphones, and MacBook Air Laptop (22.39%) together account for >84% of total revenue, highlighting their critical importance in the product portfolio.
+•	The 27 inch 4K Gaming Monitor, Apple Airpods Headphones, and MacBook Air Laptop together account for >84% of total revenue, highlighting their critical importance in the product portfolio.
 
 •	Bose SoundSport Headphones have significantly underperformed—generating less than 1% of total revenue despite an AOV of $35 cheaper than Apple AirPods. This suggests that lower price alone hasn’t translated into higher demand.
 
