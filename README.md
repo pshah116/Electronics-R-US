@@ -97,21 +97,25 @@ Sales Trends:
 
 ## Recommendations
 Product Outreach: 
+
 • Diversify the product mix. Over 85% of total revenue is concentrated in just three products: the 27" Gaming Monitor, MacBook Air, and Apple AirPods. This limits growth potential. Consider expanding more products similar to these to expand growth.
 
 • Discontinue or reposition low-performing products such as Bose SoundSport Headphones which contributed only 0.01% of total sales over 4 years. Bundle this product with compatible devices or offer clearance pricing to reduce excess inventory.
 
 Global Impact:
+
 •	Focus resources on high-revenue markets. North America and EMEA generated >75% of dominant sales share. Continue investing in these regions while exploring growth opportunities in LATAM and APAC through localized campaigns and pricing adjustments.
 
 •	Maximize potential in high-AOV countries  like Australia ($392 AOV), Denmark ($353), and Israel ($302) present opportunities for premium product upsells or bundles due to their demonstrated willingness to spend more per transaction
 
 Loyalty Program Performance:
+
 • Continue investing in the loyalty program, as members outperformed non-members in 2021 and 2022 across key KPIs such as higher total orders, greater sales, and stronger average order value(AOV).
 
 •Focus marketing on Direct Marketing Channel which had the highest signup rate (40%) and a total of 23.5K loyalty member signups and Email Marketing Channel which generated 59% signup rate with 8K signups
 
 Refund monitoring:
+
 •Investigate recurring issues with MacBook Air Laptops and Apple AirPods Headphones by reviewing customer feedback, and return reasons to identify root causes and implement product or service improvement.
 
 •Optimize the post-purchase service experience and improve product durability to sustain low refunds. With zero refunds reported in 2022, maintaining this standard should be a continued priority.
