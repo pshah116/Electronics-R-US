@@ -35,7 +35,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 •	2020 was the best performing year for the company which saw a **162%** increase in YoY sales revenue, **31%** increase in AOV and **101%** increase in order count. Since then, the company has declined in sales, average order value and total orders. 
 
-•	Refund rates hit an all time high of 44% in 2020, but then have steadily dropped off in 2021 (17.15%) and **0%** reported in 2022
+•	**Refund rates hit an all time high of 44% in 2020**, but then have steadily dropped off in 2021 (17.15%) and **0% reported in 2022**
 
 •	**Regional Performance was dominated by North America (NA)** with over $14.5M in total sales. EMEA (Europe, Middle East, Africa) was second in total sales with ~$8.2M. **Both regions contributed to >75% of total sales**
 
