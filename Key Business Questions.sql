@@ -42,6 +42,29 @@ ORDER BY 2 DESC
 LIMIT 1
 ;
 
+--overall average delivery time in days
+
+WITH avg_delivery_time AS (
+SELECT
+  region,
+  ROUND(AVG(DATE_DIFF(delivery_ts, order_status.purchase_ts, day)), 2) AS avg_time_to_deliver,
+FROM `core.order_status` order_status
+LEFT JOIN `core.orders` orders
+  ON order_status.order_id = orders.id
+LEFT JOIN `core.customers` customers
+  ON orders.customer_id = customers.id
+LEFT JOIN `core.geo_lookup` geo_lookup
+  ON customers.country_code = geo_lookup.country
+WHERE purchase_platform = 'mobile app' OR (purchase_platform = 'website' AND EXTRACT(year from order_status.purchase_ts) = 2022)
+GROUP BY 1
+)
+
+SELECT 
+  AVG(avg_time_to_deliver) AS avg_delivery_time
+FROM avg_delivery_time;
+
+
+
 
 --3) What was the refund rate and refund count for each product per year?
 
