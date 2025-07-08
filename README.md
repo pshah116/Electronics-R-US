@@ -55,7 +55,7 @@ Electronics R US , a digital electronics retailer launched in 2019, has rapidly 
 ## Product Performance
 •	The 27 inch 4K Gaming Monitor, Apple Airpods Headphones, and MacBook Air Laptop together account for **>84%** of total revenue, highlighting their critical importance in the product portfolio.
 
-•	Bose SoundSport Headphones have significantly underperformed—generating less than 1% of total revenue despite an AOV of $35 cheaper than Apple AirPods. This suggests that lower price alone hasn’t translated into higher demand.
+•	Bose SoundSport Headphones have significantly underperformed—generating  **less than 1%** of total revenue despite an AOV of $35 cheaper than Apple AirPods. This suggests that lower price alone hasn’t translated into higher demand.
 
 •	Apple Iphone is surprisingly underperforming while its other 2 products have been wildly successful. This could possibly be due to consumer preference for smartphone selection or higher competition and pricing in the smartphone market.
 
