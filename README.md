@@ -31,17 +31,17 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 ## Executive Summary
 
-•	From 2019 to 2022 the average yearly sales revenue was **$7M**, the average total orders per year was **27K** and the average AOV was **$260.06**. 2020 was the strongest for revenue with **+$10M** in sales and average order value being **$300.16**. 2021 had the highest order count at **35,858**. August 2020 had the best YoY monthly performance with a **214%** increase in revenue!
+•	**From 2019 to 2022 total sales exceeded $28.1M, with 108K total orders and average order value (AOV) of $260.06**. Average yearly sales revenue was $7M, and average total orders per year was 27K. **2020 was the strongest year for revenue with +$10M in sales** and had the highest AOV at $300.16. **2021 had the highest order count at 35,858**. **August 2020 had the best YoY monthly performance with a 214% increase in revenue**.
 
 •	2020 was the best performing year for the company which saw a **162%** increase in YoY sales revenue, **31%** increase in AOV and **101%** increase in order count. Since then, the company has declined in sales, average order value and total orders. 
 
 •	Refund rates hit an all time high of 44% in 2020, but then have steadily dropped off in 2021 (17.15%) and **0%** reported in 2022
 
-•	Regional Performance was dominated by North America (NA) with over **$14.5M** in total sales. EMEA (Europe, Middle East, Africa) was second in total sales with **$8.2M**. Both regions contributed to **>75%** of total sales!
+•	**Regional Performance was dominated by North America (NA)** with over $14.5M in total sales. EMEA (Europe, Middle East, Africa) was second in total sales with ~$8.2M. **Both regions contributed to >75% of total sales**
 
 •	The loyalty Program has shown promise in AOV increase since 2019 for loyalty members, and has been bringing in new distinct members in the last two years for 2021 and 2022. Additionally, loyalty members have brought in **$1.6M** more in revenue for the past 2 years compared to non-loyalty members.
 
-•	Top 3 selling products were the 27 inch gaming monitor, Apple Airpods Headphones and Macbook Air laptop
+•	**Top 3**selling **products** were the **27 inch gaming monitor**, **Apple Airpods Headphones** and **Macbook Air laptop**
 
 ## Deep Dive Insights
 **Sales Trends:**
