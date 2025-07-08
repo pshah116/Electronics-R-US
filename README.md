@@ -71,7 +71,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 ## Loyalty Program
 • From 2019–2022, loyalty members contributed to a total of 45,693 orders compared to 62,431 by non-members. However in 2021 and 2022 loyalty members placed **22%** more total orders than non-members, highlighting a shift in engagement.
 
-• Loyalty members contributed to >$10M in total sales, while non-loyalty members generated >$17M. However, in both 2021 and 2022, loyalty members outperformed non-members, generating over **$1.6M** more in revenue during that period. While overall revenue declined for both segments in 2022, loyalty-driven sales remained a strong contributor the last two years.
+• **Loyalty members contributed to >$10M** in total sales, while **non-loyalty members generated >$17M**. However, in both **2021 and 2022 loyalty members outperformed non-members**, generating over **$1.6M** more in revenue during that period. While overall revenue declined for both segments in 2022, loyalty-driven sales remained a stronger contributor the last two years compared to non-loyalty members.
 
 •The highest AOV was in 2020 at $345.28 for non-loyalty members, however, Loyalty Members surpassed non-members in 2022 ($244.79 vs $214.11), showing better spend-per-order in the most recent year.
 
