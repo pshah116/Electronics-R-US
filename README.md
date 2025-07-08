@@ -46,7 +46,7 @@ Sales Trends:
 
 •	2020 experienced the highest growth in total sales, order count, and AOV, particularly in April through September, likely influenced by pandemic-driven e-commerce surges. Notably, April, May, June, and August 2020 all had over 200% YoY sales growth, suggesting a strong mid-year acceleration.
 
-•	2022 shows significant declines in all KPIs, especially from May onward, with October and November showing YoY total sales drops of over -71%, indicating either market saturation, economic slowdown, or reduced promotional effectiveness.
+•	2022 shows significant declines in all KPIs, especially after May, with October and November showing YoY total sales drops of over -71%, indicating either market saturation, economic slowdown, or reduced promotional effectiveness.
 
 ![2025-07-08_12h05_47](https://github.com/user-attachments/assets/41c74ad7-8b02-4081-a9eb-7da6d0fcbc9b)
 
