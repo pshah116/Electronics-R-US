@@ -30,11 +30,11 @@ Electronics R US , a digital electronics retailer launched in 2019, has rapidly 
 
 •	2020 was the best performing year for the company which saw a **162%** increase in YoY sales revenue, **31%** increase in AOV and **101%** increase in order count. Since then, the company has declined in sales, average order value and total orders. 
 
-•	Refund rates hit an all time high of 44% in 2020, but then have steadily dropped off in 2021 (17.15%) and 0% reported in 2022
+•	Refund rates hit an all time high of 44% in 2020, but then have steadily dropped off in 2021 (17.15%) and **0%** reported in 2022
 
-•	Regional Performance was dominated by North America (NA) with over **$14.5M** in total sales. EMEA (Europe, Middle East, Africa) was second in total sales with $8.2M. Both regions contributed to **>75%** of total sales!
+•	Regional Performance was dominated by North America (NA) with over **$14.5M** in total sales. EMEA (Europe, Middle East, Africa) was second in total sales with **$8.2M**. Both regions contributed to **>75%** of total sales!
 
-•	The loyalty Program has shown promise in AOV increase since 2019 for loyalty members, and has been bringing in new distinct members in the last two years for 2021 and 2022. Additionally, loyalty members have brought in $1M more in revenue for the past 2 years compared to non-loyalty members.
+•	The loyalty Program has shown promise in AOV increase since 2019 for loyalty members, and has been bringing in new distinct members in the last two years for 2021 and 2022. Additionally, loyalty members have brought in **$1.6M** more in revenue for the past 2 years compared to non-loyalty members.
 
 •	Top 3 selling products was the 27 inch gaming monitor, Apple Airpods Headphones and Macbook Air laptop
 
