@@ -77,3 +77,14 @@ Sales Trends:
 ![2025-07-08_12h38_17](https://github.com/user-attachments/assets/5174d84f-a82a-4173-b76a-ad244954a6da)
 ![2025-07-08_12h38_38](https://github.com/user-attachments/assets/f7357d36-e40c-44b7-826d-f119d55cbf62)
 
+## Regional Analysis
+• North America continues to dominate, generating over 91% of its regional sales from the U.S. alone and contributing more than $14M in total sales—by far the highest globally. Despite a YoY dip in 2022, its overall market strength consistently remained above 50% total sales revenue from 2019-2022. 
+
+•North America and EMEA had the highest sales however APAC had the highest compound growth rate across the 4-year span (In 2020 they outperformed every region with a YoY 213% growth), showing early explosive expansion.
+
+•The 27-inch 4K Gaming Monitor is a global bestseller, leading in 16 out of the 21 countries, making it a key product to continue pushing in both mature and emerging markets.
+![2025-07-08_12h56_02](https://github.com/user-attachments/assets/ceaad4e0-4088-4a3a-9c2a-0daa75125b7c)
+![2025-07-08_12h56_27](https://github.com/user-attachments/assets/774a3014-a83a-458d-822a-beb5eed69686)
+![2025-07-08_12h54_24](https://github.com/user-attachments/assets/dc65616b-8c70-4f5c-90e6-7203156d6453)
+
+
