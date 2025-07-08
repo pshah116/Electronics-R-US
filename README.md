@@ -53,26 +53,24 @@ Sales Trends:
 ![2025-07-08_12h06_13](https://github.com/user-attachments/assets/0ff12818-7f6b-42ab-a014-3ae320d39f13)
 
 ## Product Performance
-•	The 27 inch 4K Gaming Monitor leads all product categories, contributing 35.04% of total sales, followed by Apple Airpods Headphones (27.53%) and MacBook Air Laptop (22.39%).
-
-•	These three products together account for >84% of total revenue, highlighting their critical importance in the product portfolio.
+•	The 27 inch 4K Gaming Monitor, Apple Airpods Headphones, and MacBook Air Laptop (22.39%) together account for >84% of total revenue, highlighting their critical importance in the product portfolio.
 
 •	Bose SoundSport Headphones have significantly underperformed—generating less than 1% of total revenue despite an AOV of $35 cheaper than Apple AirPods. This suggests that lower price alone hasn’t translated into higher demand.
 
 •	Apple Iphone is surprisingly underperforming while its other 2 products have been wildly successful. This could possibly be due to consumer preference for smartphone selection or higher competition and pricing in the smartphone market.
 
-•	All top 4 products saw a sharp spike in 2020 YoY growth, with MacBook Air Laptop showing the strongest jump at 384% followed by ThinkPad Laptop at 222% likely driven by remote work and e-learning needs during the pandemic. However, by 2022, all four top products experienced negative growth rates, with ThinkPad Laptop and MacBook Air showing the steepest declines, indicating possible market saturation or reduced demand.
+•	All top 4 products saw a sharp spike in 2020 YoY growth, with MacBook Air Laptop showing the strongest jump at 384% followed by ThinkPad Laptop at 222% likely driven by remote work and e-learning needs during the pandemic. However, in 2021 both products had the steepest declines  with ThinkPad Laptop dropping -20% in YoY growth and MacBook Air(-35%) indicating possible market saturation or reduced demand.
 ![2025-07-08_12h09_57](https://github.com/user-attachments/assets/f978c0d6-f53c-4b69-adcf-67a0dc246ea1)
 ![2025-07-08_12h14_23](https://github.com/user-attachments/assets/5cb63eda-f0de-4ce9-b603-9fefe65b8b2a)
 
 ## Loyalty Program
-• Non-Loyalty Members had higher AOV in 2019–2021 (peaking at $345.28 in 2020), however, Loyalty Members surpassed non-members in 2022 ($244.79 vs $214.11), showing better spend-per-order in the most recent year.
+• From 2019–2022, loyalty members contributed to a total of 45,693 orders compared to 62,431 by non-members (about 27% fewer overall). However in 2021 and 2022 loyalty members placed 22% more orders (~4000 more orders) than non-members, highlighting a shift in engagement.
 
 • Loyalty members contributed to over $10M in total sales, while non-loyalty members generated over $17M. However, in both 2021 and 2022, loyalty members outperformed non-members, generating over $1.6M more in revenue during that period. While overall revenue declined for both segments in 2022, loyalty-driven sales remained a strong contributor the last two years.
 
-•From 2019–2022, loyalty members contributed to a total of 45,693 orders compared to 62,431 by non-members (about 27% fewer overall). However in 2021 and 2022 loyalty members placed 22% more orders (roughly 4000 more orders) than non-members, highlighting a shift in engagement.
+•Loyalty Members had higher AOV in 2019–2021 (peaking at $345.28 in 2020), however, Loyalty Members surpassed non-members in 2022 ($244.79 vs $214.11), showing better spend-per-order in the most recent year.
 
-•Loyalty growth has been impactful! Loyalty sign-ups grew from ~2,000 in 2019 to a peak of ~17,000 in 2021, surpassing non-loyalty growth that year. 2022 slowed for both segments, but loyalty still attracted more new customers than non-loyalty.
+• Loyalty sign-ups grew from ~2,000 in 2019 to a peak of ~17,000 in 2021, surpassing non-loyalty growth that year. 2022 slowed for both segments, but loyalty still attracted more new customers than non-loyalty.
 ![2025-07-08_12h37_58](https://github.com/user-attachments/assets/44d98007-7e48-4d56-9dd3-c3155de3e374)
 ![2025-07-08_12h38_17](https://github.com/user-attachments/assets/5174d84f-a82a-4173-b76a-ad244954a6da)
 ![2025-07-08_12h38_38](https://github.com/user-attachments/assets/f7357d36-e40c-44b7-826d-f119d55cbf62)
@@ -105,6 +103,7 @@ Product Outreach:
 
 Global Impact:
 •	Focus resources on high-revenue markets. North America and EMEA generated >75% of dominant sales share. Continue investing in these regions while exploring growth opportunities in LATAM and APAC through localized campaigns and pricing adjustments.
+
 •	Maximize potential in high-AOV countries  like Australia ($392 AOV), Denmark ($353), and Israel ($302) present opportunities for premium product upsells or bundles due to their demonstrated willingness to spend more per transaction
 
 Loyalty Program Performance:
