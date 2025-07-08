@@ -26,7 +26,7 @@ Electronics R US , a digital electronics retailer launched in 2019, has rapidly 
 
 ## Executive Summary
 
-•	From 2019 to 2022 the average yearly sales revenue was **$7M**, the average total orders per year was **27K** and the average AOV was **$260.06**. 2020 was the strongest for revenue with +$10M in sales and average order value being $300.16. 2021 had the highest order count at 35,858. August 2020 had the best YoY monthly performance with a **214%** increase in revenue!
+•	From 2019 to 2022 the average yearly sales revenue was **$7M**, the average total orders per year was **27K** and the average AOV was **$260.06**. 2020 was the strongest for revenue with **+$10M** in sales and average order value being **$300.16**. 2021 had the highest order count at **35,858**. August 2020 had the best YoY monthly performance with a **214%** increase in revenue!
 
 •	2020 was the best performing year for the company which saw a 162% increase in YoY sales revenue, 31% increase in AOV and 101% increase in order count. Since then, the company has declined in sales, average order value and total orders. 
 
