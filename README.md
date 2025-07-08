@@ -65,4 +65,15 @@ Sales Trends:
 ![2025-07-08_12h09_57](https://github.com/user-attachments/assets/f978c0d6-f53c-4b69-adcf-67a0dc246ea1)
 ![2025-07-08_12h14_23](https://github.com/user-attachments/assets/5cb63eda-f0de-4ce9-b603-9fefe65b8b2a)
 
+## Loyalty Program
+• Non-Loyalty Members had higher AOV in 2019–2021 (peaking at $345.28 in 2020), however, Loyalty Members surpassed non-members in 2022 ($244.79 vs $214.11), showing better spend-per-order in the most recent year.
+
+• Loyalty members contributed to over $10M in total sales, while non-loyalty members generated over $17M. However, in both 2021 and 2022, loyalty members outperformed non-members, generating over $1.6M more in revenue during that period. While overall revenue declined for both segments in 2022, loyalty-driven sales remained a strong contributor the last two years.
+
+•From 2019–2022, loyalty members contributed to a total of 45,693 orders compared to 62,431 by non-members (about 27% fewer overall). However in 2021 and 2022 loyalty members placed 22% more orders (roughly 4000 more orders) than non-members, highlighting a shift in engagement.
+
+•Loyalty growth has been impactful! Loyalty sign-ups grew from ~2,000 in 2019 to a peak of ~17,000 in 2021, surpassing non-loyalty growth that year. 2022 slowed for both segments, but loyalty still attracted more new customers than non-loyalty.
+![2025-07-08_12h37_58](https://github.com/user-attachments/assets/44d98007-7e48-4d56-9dd3-c3155de3e374)
+![2025-07-08_12h38_17](https://github.com/user-attachments/assets/5174d84f-a82a-4173-b76a-ad244954a6da)
+![2025-07-08_12h38_38](https://github.com/user-attachments/assets/f7357d36-e40c-44b7-826d-f119d55cbf62)
 
