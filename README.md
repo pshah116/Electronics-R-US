@@ -24,6 +24,11 @@ Electronics R US , a digital electronics retailer launched in 2019, has rapidly 
 
 •	Are the regions with the highest spike the same regions responsible for the highest sales dollars?
 
+## ERD 
+The database consists of four tables: orders, customers, geo_lookup, and order_status, with 108,127 rows of record
+![2025-07-08_14h55_01](https://github.com/user-attachments/assets/35305e83-8b7f-433e-8390-dfeb602e5e28)
+
+
 ## Executive Summary
 
 •	From 2019 to 2022 the average yearly sales revenue was **$7M**, the average total orders per year was **27K** and the average AOV was **$260.06**. 2020 was the strongest for revenue with **+$10M** in sales and average order value being **$300.16**. 2021 had the highest order count at **35,858**. August 2020 had the best YoY monthly performance with a **214%** increase in revenue!
