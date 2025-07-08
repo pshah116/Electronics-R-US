@@ -52,3 +52,16 @@ Sales Trends:
 
 ![2025-07-08_12h06_13](https://github.com/user-attachments/assets/0ff12818-7f6b-42ab-a014-3ae320d39f13)
 
+## Product Performance
+-- Top Products by Contribution to Total Sales:
+•	The 27 inch 4K Gaming Monitor leads all product categories, contributing 35.04% of total sales, followed by Apple Airpods Headphones (27.53%) and MacBook Air Laptop (22.39%).
+•	These three products together account for >84% of total revenue, highlighting their critical importance in the product portfolio.
+--Worst Products by Contribution to Total Sales:
+•	Bose SoundSport Headphones have significantly underperformed—generating less than 1% of total revenue despite an AOV of $35 cheaper than Apple AirPods. This suggests that lower price alone hasn’t translated into higher demand.
+•	Apple Iphone is surprisingly underperforming while its other 2 products have been wildly successful. This could possibly due to consumer preference for smartphone selection or higher competition and pricing in the smartphone market.
+--Explosive Growth in 2020, Followed by Declines:
+•	All top 4 products saw a sharp spike in 2020 YoY growth, with MacBook Air Laptop showing the strongest jump at 384%, likely driven by remote work and e-learning needs during the pandemic. However, by 2022, all four top products experienced negative growth rates, with ThinkPad Laptop and MacBook Air showing the steepest declines, indicating possible market saturation or reduced demand.
+![2025-07-08_12h09_57](https://github.com/user-attachments/assets/f978c0d6-f53c-4b69-adcf-67a0dc246ea1)
+![2025-07-08_12h14_23](https://github.com/user-attachments/assets/5cb63eda-f0de-4ce9-b603-9fefe65b8b2a)
+
+
