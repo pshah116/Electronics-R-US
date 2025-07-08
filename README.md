@@ -34,7 +34,7 @@ Electronics R US , a digital electronics retailer launched in 2019, has rapidly 
 
 •	Regional Performance was dominated by North America (NA) with over $14.5M in total sales. EMEA (Europe, Middle East, Africa) was second in total sales with $8.2M. Both regions contributed to >75% of total sales!
 
-•	The loyalty Program should be kept as it has shown promise in AOV increase since 2019 for loyalty members, and has been bringing in new distinct members in the last two years for 2021 and 2022. Additionally, loyalty members have brought in $1M more in revenue for the past 2 years compared to non-loyalty members.
+•	The loyalty Program has shown promise in AOV increase since 2019 for loyalty members, and has been bringing in new distinct members in the last two years for 2021 and 2022. Additionally, loyalty members have brought in $1M more in revenue for the past 2 years compared to non-loyalty members.
 
 •	Top 3 selling products include 27 inch gaming monitor, Apple Airpods Headphones and Macbook Air laptops
 
