@@ -87,4 +87,34 @@ Sales Trends:
 ![2025-07-08_12h56_27](https://github.com/user-attachments/assets/774a3014-a83a-458d-822a-beb5eed69686)
 ![2025-07-08_12h54_24](https://github.com/user-attachments/assets/dc65616b-8c70-4f5c-90e6-7203156d6453)
 
+## Refund Rates
+• Between 2019 and 2022, 5,370 refunds were issued and >83% came from North America and EMEA. This aligns with their high sales volume, as greater revenue often leads to a higher number of returns.
+
+• From 2019 to 2021, Apple AirPods and MacBook Air consistently had the highest refund rates—peaking at 28% and 15%, respectively, in 2020. Apple refunds accounted for a major portion of total refunds in those years (>50% of all refunds per year). However, refund rates significantly dropped across all products in 2021 and reached 0% in 2022, indicating improvement in product satisfaction or return policies.
+
+• On average, loyalty members had 76 more refunds per year than non loyalty members. Overall Loyalty members had 12% more refunds from 2019–2022 than non loyalty members. The biggest gap occurred in 2022, where loyalty refunds were 6.5% higher than non-loyalty refunds, highlighting a need to monitor return behavior among members in the future. 
+![2025-07-08_13h06_17](https://github.com/user-attachments/assets/1f5fedd8-26eb-468d-8220-e7400675e09f)
+![2025-07-08_13h09_33](https://github.com/user-attachments/assets/9e659a12-b610-4340-bea3-e0a16c186d66)
+![2025-07-08_13h09_51](https://github.com/user-attachments/assets/080b5e46-ac26-4f30-aeeb-8f759219dea2)
+
+## Recommendations
+Product Outreach: 
+• Diversify the product mix. Over 85% of total revenue is concentrated in just three products: the 27" Gaming Monitor, MacBook Air, and Apple AirPods. This limits growth potential. Consider expanding more products similar to these to expand growth.
+
+• Discontinue or reposition low-performing products such as Bose SoundSport Headphones which contributed only 0.01% of total sales over 4 years. Bundle this product with compatible devices or offer clearance pricing to reduce excess inventory.
+
+Global Impact:
+•	Focus resources on high-revenue markets. North America and EMEA generated >75% of dominant sales share. Continue investing in these regions while exploring growth opportunities in LATAM and APAC through localized campaigns and pricing adjustments.
+•	Maximize potential in high-AOV countries  like Australia ($392 AOV), Denmark ($353), and Israel ($302) present opportunities for premium product upsells or bundles due to their demonstrated willingness to spend more per transaction
+
+Loyalty Program Performance:
+• Continue investing in the loyalty program, as members outperformed non-members in 2021 and 2022 across key KPIs such as higher total orders, greater sales, and stronger average order value(AOV).
+
+• Slightly higher refund volume among loyalty members should not discourage program continuation, as customer growth, AOV, total orders and revenue has surpassed non loyalty members since 2021
+
+Refund monitoring:
+•Investigate recurring issues with MacBook Air Laptops and Apple AirPods Headphones by reviewing customer feedback, and return reasons to identify root causes and implement product or service improvement.
+
+•Optimize the post-purchase service experience and improve product durability to sustain low refunds. With zero refunds reported in 2022, maintaining this standard should be a continued priority.
+
 
