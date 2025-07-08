@@ -46,7 +46,7 @@ Electronics R US , a digital electronics retailer launched in 2019, has rapidly 
 
 •	2020 experienced the highest growth in every month for all major KPI's such as total sales, order count, and AOV, particularly from April through September, likely influenced by pandemic-driven e-commerce surges. Notably, April, May, June, and August 2020 all had over **200%** **YoY sales growth**, suggesting a strong mid-year acceleration.
 
-•	2022 shows significant declines in all KPIs, especially in Q4 with October, November and December showing YoY total sales dropping >70%, indicating either market saturation, economic slowdown, or reduced promotional effectiveness.
+•	2022 shows significant declines in all KPIs, especially in Q4 with October, November and December showing YoY total sales dropping **>70%**, indicating either market saturation, economic slowdown, or reduced promotional effectiveness.
 
 ![2025-07-08_12h05_47](https://github.com/user-attachments/assets/41c74ad7-8b02-4081-a9eb-7da6d0fcbc9b)
 
