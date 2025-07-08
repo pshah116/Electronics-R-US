@@ -40,16 +40,15 @@ Electronics R US , a digital electronics retailer launched in 2019, has rapidly 
 
 ## Deep Dive Insights
 Sales Trends:
---Strong Seasonal Peaks in Q4 (Especially November & December):
 
-•	Across all years, November and December consistently show an increase in sales, after a drop in sales from October, this is possibly attributed to the holiday shopping seasonality (Black Friday and year-end promotions).
+•	Across all years, there is a strong seasonal peaks in Q4 especially November & December consistently showing an increase in sales, after a drop in sales from October, this is possibly attributed to the holiday shopping seasonality (Black Friday and year-end promotions).
 
---2020 Outperformed All Years Across Most Metrics:
 
-•	2020 experienced the highest growth in total sales, order count, and AOV, particularly in April through September, likely influenced by pandemic-driven e-commerce surges.
-•	Notably, April, May, June, and August 2020 all had over 200% YoY sales growth, suggesting a strong mid-year acceleration.
+•	2020 experienced the highest growth in total sales, order count, and AOV, particularly in April through September, likely influenced by pandemic-driven e-commerce surges. Notably, April, May, June, and August 2020 all had over 200% YoY sales growth, suggesting a strong mid-year acceleration.
 
---Sharp Declines in 2022 Signal a Market Contraction:
 •	2022 shows significant declines in all KPIs, especially from May onward, with October and November showing YoY total sales drops of over -71%, indicating either market saturation, economic slowdown, or reduced promotional effectiveness.
-•	The largest YoY drop was November 2022 at -72.82%, despite it being a historically high-performing month, highlighting an urgent need to reassess Q4 strategies.
+
+![2025-07-08_12h05_47](https://github.com/user-attachments/assets/41c74ad7-8b02-4081-a9eb-7da6d0fcbc9b)
+
+![2025-07-08_12h06_13](https://github.com/user-attachments/assets/0ff12818-7f6b-42ab-a014-3ae320d39f13)
 
