@@ -49,27 +49,27 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 •	Across all years, there is a strong **seasonal peak in Q4** especially November & December consistently showing an increase in sales, after a drop in sales from October, this is possibly attributed to the holiday shopping seasonality (Black Friday and year-end promotions).
 
 
-•	2020 experienced the highest growth in every month for all major KPI's such as total sales, order count, and AOV, likely influenced by pandemic-driven e-commerce surges. Notably, April, May, June, and August 2020 all had **>200%** **YoY sales growth**, suggesting a strong mid-year acceleration.
+•	**2020 experienced the highest growth in every month for all major KPI's such as total sales, order count, and AOV.** This is likely influenced by pandemic-driven e-commerce surges. Notably, April, May, June, and August 2020 all had **>200%** **YoY sales growth**, suggesting a strong mid-year acceleration.
 
-•	2022 shows significant declines in all KPIs, especially in Q4 with October, November and December showing YoY total sales dropping **>70%**, indicating either market saturation, economic slowdown, or reduced promotional effectiveness.
+•	**2022 shows significant declines** in all KPIs, especially in Q4 with October, November and December showing YoY total sales dropping **>70%**, indicating either market saturation, economic slowdown, or reduced promotional effectiveness.
 
 ![2025-07-08_12h05_47](https://github.com/user-attachments/assets/41c74ad7-8b02-4081-a9eb-7da6d0fcbc9b)
 
 ![2025-07-08_12h06_13](https://github.com/user-attachments/assets/0ff12818-7f6b-42ab-a014-3ae320d39f13)
 
 ## Product Performance
-•	The 27 inch 4K Gaming Monitor, Apple Airpods Headphones, and MacBook Air Laptop together account for **>84%** of total revenue, highlighting their critical importance in the product portfolio.
+•	**The 27 inch 4K Gaming Monitor, Apple Airpods Headphones, and MacBook Air Laptop together account for >84%** of total revenue, highlighting their critical importance in the product portfolio.
 
 •	Bose SoundSport Headphones have significantly underperformed—generating  **less than 1%** of total revenue despite an AOV of $35 cheaper than Apple AirPods. This suggests that lower price alone hasn’t translated into higher demand.
 
 •	Apple Iphone is surprisingly underperforming while its other 2 products have been wildly successful. This could possibly be due to consumer preference for smartphone selection or higher competition and pricing in the smartphone market.
 
-•	The top 4 products all saw a sharp positive spike in 2020 YoY growth, with MacBook Air Laptop showing the strongest jump at **384%** followed by ThinkPad Laptop at **222%** likely driven by remote work and e-learning needs during the pandemic. However, in 2021 both products had the steepest declines  with ThinkPad Laptop dropping -20% in YoY growth and MacBook Air Laptop dropping -35% indicating possible market saturation or reduced demand.
+•	**The top 4 products all saw a sharp positive spike in 2020 YoY growth**, with MacBook Air Laptop showing the strongest jump at **384%** followed by ThinkPad Laptop at **222%** likely driven by remote work and e-learning needs during the pandemic. However, in **2021 both products had the steepest declines  with ThinkPad Laptop dropping -20% in YoY growth and MacBook Air Laptop dropping -35%** indicating possible market saturation or reduced demand.
 ![2025-07-08_12h09_57](https://github.com/user-attachments/assets/f978c0d6-f53c-4b69-adcf-67a0dc246ea1)
 ![2025-07-08_12h14_23](https://github.com/user-attachments/assets/5cb63eda-f0de-4ce9-b603-9fefe65b8b2a)
 
 ## Loyalty Program
-• From 2019–2022, loyalty members contributed to a total of 45,693 orders compared to 62,431 by non-members. However in 2021 and 2022 loyalty members placed **22%** more total orders than non-members, highlighting a shift in engagement.
+• From 2019–2022, loyalty members contributed to a total of 45,693 orders compared to 62,431 by non-members. However in **2021 and 2022 loyalty members placed 22% more total orders than non-members**, highlighting a shift in engagement.
 
 • **Loyalty members contributed to >$10M** in total sales, while **non-loyalty members generated >$17M**. However, in both **2021 and 2022 loyalty members outperformed non-members**, generating over **$1.6M** more in revenue during that period. While overall revenue declined for both segments in 2022, loyalty-driven sales remained a stronger contributor the last two years compared to non-loyalty members.
 
@@ -77,27 +77,33 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 • Loyalty sign-ups grew from ~2,000 in 2019 to a peak of ~17,000 in 2021, surpassing non-loyalty growth that year. 2022 slowed for both segments, but loyalty still attracted more new customers than non-loyalty.
 ![2025-07-08_12h37_58](https://github.com/user-attachments/assets/44d98007-7e48-4d56-9dd3-c3155de3e374)
+
 ![2025-07-08_12h38_17](https://github.com/user-attachments/assets/5174d84f-a82a-4173-b76a-ad244954a6da)
+
 ![2025-07-08_12h38_38](https://github.com/user-attachments/assets/f7357d36-e40c-44b7-826d-f119d55cbf62)
 
 ## Regional Analysis
-• North America continues to dominate, generating **over 91%** of its regional sales from the U.S. alone and contributing  **>$14M** in total sales—by far the highest globally. Despite a YoY dip in 2022, its overall market strength consistently remained above **50%** total sales revenue from 2019-2022. 
+• **North America continues to dominate, generating over 91%** of its regional sales from the U.S. alone and contributing  **>$14M in total sales**—by far the highest globally. Despite a YoY dip in 2022, its overall **market strength consistently remained above 50%** total sales revenue from 2019-2022. 
 
 •North America and EMEA had the highest sales however **APAC had the highest compound growth rate** across the 4-year span (In 2020 they outperformed every region with a YoY 213% growth), showing early explosive expansion.
 
 •The **27-inch 4K Gaming Monitor is a global bestseller**, leading in **16 out of the 21 countries**, making it a key product to continue pushing in both mature and emerging markets.
 ![2025-07-08_12h56_02](https://github.com/user-attachments/assets/ceaad4e0-4088-4a3a-9c2a-0daa75125b7c)
+
 ![2025-07-08_12h56_27](https://github.com/user-attachments/assets/774a3014-a83a-458d-822a-beb5eed69686)
+
 ![2025-07-08_12h54_24](https://github.com/user-attachments/assets/dc65616b-8c70-4f5c-90e6-7203156d6453)
 
 ## Refund Rates
-• Between 2019 and 2022, 5,370 refunds were issued and **>83%** came from North America and EMEA. This aligns with their high sales volume, as greater revenue often leads to a higher number of returns.
+• A total of 5,370 total refunds were processed between 2019 and 2022, **>83% of all refunds came from North America and EMEA**.  This aligns with their high sales volume, as greater revenue often leads to a higher number of returns.
 
-• From 2019 to 2021, Apple products specifically AirPods and MacBook Air consistently had the highest refund rates—peaking at 28% and 15%, respectively, in 2020. Apple refunds accounted for a major portion of total refunds in those years with a **>50% of all refunds per year**. However, refund rates significantly dropped across all products in 2021 and reached 0% in 2022, indicating improvement in product satisfaction or return policies.
+• From 2019 to 2021, Apple products specifically AirPods and MacBook Air consistently had the highest refund rates—peaking at 28% and 15%, respectively, in 2020. **Apple refunds accounted for a major portion of total refunds in those years with >50% of all refunds per year**. However, refund rates significantly dropped across all products in 2021 and reached **0% refund rate in 2022**, indicating improvement in product satisfaction or return policies.
 
 • On average, loyalty members had 76 more refunds per year than non loyalty members. Overall Loyalty members had 12% more refunds than non loyalty members. The biggest gap occurred in 2022, where loyalty refunds were 6.5% higher than non-loyalty refunds, highlighting a need to monitor return behavior among members in the future. 
 ![2025-07-08_13h06_17](https://github.com/user-attachments/assets/1f5fedd8-26eb-468d-8220-e7400675e09f)
+
 ![2025-07-08_13h09_33](https://github.com/user-attachments/assets/9e659a12-b610-4340-bea3-e0a16c186d66)
+
 ![2025-07-08_13h09_51](https://github.com/user-attachments/assets/080b5e46-ac26-4f30-aeeb-8f759219dea2)
 
 ## Recommendations
