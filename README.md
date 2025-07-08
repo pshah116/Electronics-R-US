@@ -31,17 +31,19 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 ## Executive Summary
 
-•	**From 2019 to 2022 total sales exceeded $28.1M, with 108K total orders and average order value (AOV) of $260.06**. Average yearly sales revenue was $7M, and average total orders per year was 27K. **2020 was the strongest year for revenue and AOV** with +$10M in sales and AOV of 300.16. **2021 had the highest order count at 35,858**. **August 2020 had the best YoY monthly performance with a 214% increase in revenue**.
+• **From 2019 to 2022, total sales exceeded $28.1M**, with **108K orders** and an **average order value (AOV) of $260.06**. Average yearly revenue was **$7M**, and **2020 was the strongest year**, generating **$10M+ in sales** and an **AOV of 300.16**.
 
-•	2020 was the best performing year for the company which saw a **162%** increase in YoY sales revenue, **31%** increase in AOV and **101%** increase in order count. Since then, the company has declined in sales, average order value and total orders. 
+• **2021 recorded the highest order volume with 35,858**, and **August 2020 achieved the best YoY monthly performance with a 214% revenue increase**.
 
-•	**Refund rates hit an all time high of 44% in 2020**, but then have steadily dropped off in 2021 (17.15%) and **0% reported in 2022**
+• **In 2020, sales revenue grew by 162% YoY**, alongside a **31% AOV increase** and a **101% surge in order count**.
 
-•	**Regional Performance was dominated by North America (NA)** with over $14.5M in total sales. EMEA (Europe, Middle East, Africa) was second in total sales with ~$8.2M. **Both regions contributed to >75% of total sales**
+• **Refund rates peaked at 44% in 2020**, but declined significantly to **17.15% in 2021** and **0% in 2022**.
 
-•	The loyalty Program has shown promise in AOV increase since 2019 for loyalty members, and has been bringing in new distinct members in the last two years for 2021 and 2022. Additionally, **loyalty members brought in $1.6M more in revenue the last 2 years (2021 and 2022) compared to non-loyalty members**.
+• Regional performance was led by **North America (NA) with $14.5M+ in total sales**. EMEA followed with **~$8.2M**, and **together these regions drove over 75% of global revenue**.
 
-•	**Top 3 selling products** were the **27 inch gaming monitor**, **Apple Airpods Headphones** and **Macbook Air laptop**
+• **Loyalty program members showed a consistent AOV increase since 2019**, and in **2021–2022 generated $1.6M more revenue** than non-loyalty users.
+
+• **Top 3 selling products** were the *27" 4K Gaming Monitor*, *Apple AirPods Headphones*, and *MacBook Air Laptop*
 
 ## Deep Dive Insights
 **Sales Trends:**
