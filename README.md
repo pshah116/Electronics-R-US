@@ -41,7 +41,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 • Regional performance was led by **North America (NA) with $14.5M+ in total sales**. EMEA followed with **~$8.2M**, and **together these regions drove over 75% of global revenue**.
 
-• **Loyalty program members showed a consistent AOV increase since 2019**, and in **2021–2022 generated $1.6M more revenue** than non-loyalty users.
+• **After 2020 the loyalty program showed a consistent increase in new members in 2021 and 2022 beating non-loyalty members and also providing a higher AOV,revenue and order count.
 
 • **Top 3 selling products** were the *27" 4K Gaming Monitor*, *Apple AirPods Headphones*, and *MacBook Air Laptop*
 
@@ -76,7 +76,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 • **Loyalty members contributed over $10M in total revenue**, while **non-loyalty members generated over $17M**. However, in **2021 and 2022 loyalty members outperformed non-members generating over $1.6M more in revenue** during that period.
 
-• **In 2022, loyalty members had a higher AOV ($244.79) vs. non-loyalty members ($214.11)**, despite non-loyalty peaking at **$345.28 in 2020**. **Loyalty AOV rose steadily from 2019–2021, with only a slight dip in 2022**, still outperforming non-loyalty members. **Non-loyalty members** have **consistently declined in AOV since 2020**.
+• **In 2022, loyalty members had a higher AOV ($244.79) vs. non-loyalty members ($214.11)**, despite non-loyalty peaking at **$345.28 in 2020**. **Loyalty AOV rose steadily from 2019–2021, with a slight dip in 2022**, but still outperformed non-loyalty members. **Non-loyalty members** have **consistently declined in AOV since 2020**.
 
 • **Loyalty sign-ups surged from ~2,000 in 2019 to ~17,000 in 2021**, outpacing non-loyalty growth that year. While **2022 saw slower growth**, loyalty still brought in more new customers.
 
