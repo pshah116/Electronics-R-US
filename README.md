@@ -99,9 +99,6 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 •Across 2019-2022 **loyalty members averaged 76 more refunds per year** than non-loyalty members. 2022 showed the biggest gap in refunds when loyalty member refunds were **6.5% higher**, indicating a need to monitor return trends among engaged members 
 ![2025-07-09_12h57_44](https://github.com/user-attachments/assets/f25caaa5-f70a-481d-b84e-f87df9e02415)
 
-
-![2025-07-08_13h09_33](https://github.com/user-attachments/assets/9e659a12-b610-4340-bea3-e0a16c186d66)
-
 ![2025-07-08_13h09_51](https://github.com/user-attachments/assets/080b5e46-ac26-4f30-aeeb-8f759219dea2)
 
 ## Recommendations
