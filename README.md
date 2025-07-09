@@ -125,6 +125,8 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 **Refund monitoring:**
 
-•Investigate why loyalty members had a high refund rate compared to non-loyalty members. Enhance post-purchase experience and durability to sustain **0% refund rate** achieved in 2022.
+•Investigate what concerns loyalty members are facing to understand what is driving their higher refund rates.
+
+•Enhance post-purchase experience and durability to sustain **0% refund rate** achieved in 2022.
 
 
