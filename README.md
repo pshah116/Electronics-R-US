@@ -115,7 +115,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 **Loyalty Program Performance:**
 
-• Continue the loyalty program. Loyalty members drove stronger results in 2021–2022 in revenue, total orders, and AOV compared to non-loyalty members.
+• Continue the loyalty program. **Loyalty members drove stronger results in revenue, orders, and AOV** compared to non-loyalty members in 2021-2022.
 
 • Prioritize direct and email marketing channels, as they have driven the highest number of signups and demonstrate strong conversion rates:
 
@@ -125,8 +125,6 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 **Refund monitoring:**
 
-•Investigate the high return rates for **MacBook Air Laptop** and **Apple AirPods Headphones** from 2020 using feedback and return reason data.
-
-•Enhance post-purchase experience and durability to sustain **0% refund rate** achieved in 2022.
+•Investigate the high return rates for **MacBook Air Laptop** and **Apple AirPods Headphones** from 2020 using feedback and return reason data. Enhance post-purchase experience and durability to sustain **0% refund rate** achieved in 2022.
 
 
