@@ -94,7 +94,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 •**From 2019 to 2021, Apple products (predominatly AirPods and MacBook Air Laptop) had the highest refund rates** peaking at **28% for Airpods** and **15% for Macbook Air Laptop**, in 2020. **Apple refunds accounted for a major portion of total refunds in those years with >50% of all refunds per year**. Refund rates significantly dropped across all products in 2021 and reached **0% refund rate in 2022**.
 
-•Across 2019-2022 **loyalty members averaged 76 more refunds per year** than non-loyalty members. 2022 showed the biggest gap in refunds when loyalty member refunds were **6.5% higher**, indicating a need to monitor return trends among engaged members 
+•**From 2019–2021, loyalty members averaged 195 more refunds per year than non-loyalty members**, with the **largest gap in 2020**, when **loyalty member refunds were 17% higher**
 ![2025-07-09_12h57_44](https://github.com/user-attachments/assets/f25caaa5-f70a-481d-b84e-f87df9e02415)
 
 ![2025-07-09_16h31_34](https://github.com/user-attachments/assets/2c397c2b-3af8-47cf-b231-601b3b19ea9d)
@@ -125,6 +125,6 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 **Refund monitoring:**
 
-•Investigate why loyalty members had a higher then average refund rate in 2021 compared to non-loyalty members. Enhance post-purchase experience and durability to sustain **0% refund rate** achieved in 2022.
+•Investigate why loyalty members had a high refund rate compared to non-loyalty members. Enhance post-purchase experience and durability to sustain **0% refund rate** achieved in 2022.
 
 
