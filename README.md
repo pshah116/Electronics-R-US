@@ -15,7 +15,7 @@ Electronics R US , a digital electronics retailer launched in 2019, has rapidly 
 
 •	What was the monthly number of sales and yearly AOV for people in the loyalty program vs. those not in the loyalty program? Has there been any new customer growth for loyalty members?
 
-•	What are the refund rates for different products and how does it compare between loyalty and non-loyalty customers? Does it vary by region?
+•	What are the refund rates for different products and how does it compare between loyalty and non-loyalty customers? What regions experienced the highest refund rates?
 
 •	How are the sales across regions? 
 
