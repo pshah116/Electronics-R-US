@@ -4,7 +4,7 @@
 
 
 ## Project Background
-Electronics R US , a fictional e-commerce retailer launched in 2019, has rapidly grown its footprint across international markets. With a focus on online and mobile channels, the company has seen strong performance from key product lines, particularly those from Apple, Samsung, and ThinkPad. This analysis was to support cross-functional teams—including sales, marketing, and finance and provide meaningful insights. The objective was to provide a clear view of company performance, helping each team refine their workflows and strengthen the customer experience across global markets.
+Electronics R US , a sample e-commerce company that launched in 2019, has rapidly grown its footprint across international markets. With a focus on online and mobile channels, the company has seen strong performance from key product lines, particularly those from Apple, Samsung, and ThinkPad. This analysis was to support cross-functional teams—including sales, marketing, and finance and provide meaningful insights. The objective was to provide a clear view of company performance, helping each team refine their workflows and strengthen the customer experience across global markets.
 
 ## Key Stakeholder Questions 
 •	What were the monthly and yearly number of sales throughout 2019 and 2022? What about AOV and total sales in dollars? How did this differ by product and geography?
