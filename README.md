@@ -72,9 +72,9 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 ![2025-07-08_12h14_23](https://github.com/user-attachments/assets/5cb63eda-f0de-4ce9-b603-9fefe65b8b2a)
 
 ## Loyalty Program
-• **From 2019–2022, loyalty members placed a total of 45,693 orders vs 62,431 by non-members**. However in **2021 and 2022 loyalty members placed 22% more total orders** than non-members, highlighting a shift in engagement.
+• **From 2019–2022, loyalty members placed a total of 45,693 orders vs 62,431 by non-members**. However, in **2021 and 2022 loyalty members placed 22% more total orders** than non-members, highlighting a shift in engagement.
 
-• **Loyalty members contributed over $10M in total revenue**, while **non-loyalty members generated over $17M**. However, in both **2021 and 2022 loyalty members outperformed non-members generating over $1.6M more in revenue** during that period.
+• **Loyalty members contributed over $10M in total revenue**, while **non-loyalty members generated over $17M**. However, in **2021 and 2022 loyalty members outperformed non-members generating over $1.6M more in revenue** during that period.
 
 • **Loyalty members had a higher AOV in 2022 at $244.79 vs. $214.11 for non-loyalty members**, showing improved spend-per-order, despite **non-loyalty AOV peaking in 2020 at $345.28**
 
