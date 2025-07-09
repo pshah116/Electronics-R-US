@@ -11,9 +11,7 @@ Electronics R US , a digital electronics retailer launched in 2019, has rapidly 
 
 •	Which months and products performed the best / worst? Is there seasonality?
 
-•	Should we keep using the loyalty program?
-
-•	What was the monthly number of sales and yearly AOV for people in the loyalty program vs. those not in the loyalty program? Has there been any new customer growth for loyalty members?
+•How has the loyalty program impacted AOV, customer growth, and engagement over time?	
 
 •	What are the refund rates for different products and how does it compare between loyalty and non-loyalty customers? What regions experienced the highest refund rates?
 
