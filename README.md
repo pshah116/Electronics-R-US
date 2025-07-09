@@ -1,6 +1,7 @@
 ## Electronics-R-US Analysis
 
-![2025-07-09_13h22_54](https://github.com/user-attachments/assets/8a9f8bd3-1e31-49ba-b06a-69d32774211d)
+![2025-07-09_13h24_06](https://github.com/user-attachments/assets/fc07319f-37c6-4087-b055-14d0418a8613)
+
 
 ## Project Background
 Electronics R US , a digital electronics retailer launched in 2019, has rapidly grown its footprint across international markets. With a focus on online and mobile channels, the company has seen strong performance from key product lines, particularly those from Apple, Samsung, and ThinkPad. This analysis was to support cross-functional teams—including sales, marketing, and finance and provide meaningful insights. The objective was to provide a clear view of company performance, helping each team refine their workflows and strengthen the customer experience across global markets.
