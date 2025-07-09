@@ -101,7 +101,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 ## Refund Rates
 •**A total of 5,370 total refunds were processed between 2019 and 2022, and >83% of all refunds came from North America and EMEA**.  This aligns with their high sales volume, as greater revenue often leads to a higher number of returns.
 
-•**From 2019 to 2021, Apple products (AirPods and MacBook Air Laptop) had the highest refund rates** peaking at **28%** and **15%**, in 2020. **Apple refunds accounted for a major portion of total refunds in those years with >50% of all refunds per year**. Refund rates significantly dropped across all products in 2021 and reached **0% refund rate in 2022**, indicating improvement in product satisfaction or return policies.
+•**From 2019 to 2021, Apple products (predominatly AirPods and MacBook Air Laptop) had the highest refund rates** peaking at **28%** and **15%**, in 2020. **Apple refunds accounted for a major portion of total refunds in those years with >50% of all refunds per year**. Refund rates significantly dropped across all products in 2021 and reached **0% refund rate in 2022**.
 
 •Loyalty members averaged **76 more refunds per year** than non-loyalty members. In 2022, loyalty refunds were **6.5% higher**, indicating a need to monitor return trends among engaged members 
 ![2025-07-09_12h57_44](https://github.com/user-attachments/assets/f25caaa5-f70a-481d-b84e-f87df9e02415)
