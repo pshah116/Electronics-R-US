@@ -31,11 +31,11 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 ## Executive Summary
 
-• **From 2019 to 2022, total sales exceeded $28.1M**, with **108K orders** and an **average order value (AOV) of $260.06**. Average yearly revenue was **$7M**, and **2020 was the strongest year**, generating **$10M+ in sales** and an **AOV of 300.16**.
+• **From 2019 to 2022, total sales exceeded $28.1M**, with **108K orders** and an **average order value (AOV) of $260.06**. Average yearly revenue was **$7M**, and average yearly orders were **27K**. **2020 was the highest performing year in revenue and AOV**, generating **$10M+ in sales** and an **AOV of $300.16**.
 
-• **2021 recorded the highest order volume with 35,858**, and **August 2020 achieved the best YoY monthly performance with a 214% revenue increase**.
+• **2021 recorded the highest order volume with 35,858**.
 
-• **In 2020, sales revenue grew by 162% YoY**, alongside a **31% AOV increase** and a **101% surge in order count**.
+• **In 2020, sales revenue grew by 162% YoY**, alongside a **31% AOV increase** and a **101% surge in order count**. **August 2020 achieved the best YoY monthly performance with a 214% revenue increase**.
 
 • **Refund rates peaked at 44% in 2020**, but declined significantly to **17.15% in 2021** and **0% in 2022**.
 
