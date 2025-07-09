@@ -55,7 +55,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 ![2025-07-08_12h06_13](https://github.com/user-attachments/assets/0ff12818-7f6b-42ab-a014-3ae320d39f13)
 
 ## Product Performance
-•	**The 27 inch 4K Gaming Monitor, Apple Airpods Headphones, and MacBook Air Laptop together account for >84% of total revenue**, highlighting their critical importance in the product portfolio.
+•	**The 27 inch 4K Gaming Monitor, Apple Airpods Headphones, MacBook Air Laptop and ThinkPad Laptop together account for >95% of total revenue**, highlighting their critical importance in the product portfolio.
 
 •*Apple iPhone* and *Bose SoundSport Headphones* contributed to **<1% of total revenue**, both products underperformed despite Bose having an **AOV $35 lower** than its competitor, *Apple AirPods*. In contrast, *Apple AirPods* and the *MacBook Air Laptop* were **top sellers**, highlighting that **lower pricing** and **brand recognition** don’t always lead to **higher sales**
 
