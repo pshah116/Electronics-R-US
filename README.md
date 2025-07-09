@@ -62,9 +62,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 ## Product Performance
 •	**The 27 inch 4K Gaming Monitor, Apple Airpods Headphones, and MacBook Air Laptop together account for >84% of total revenue**, highlighting their critical importance in the product portfolio.
 
-•	**Bose SoundSport Headphones have significantly underperformed generating  less than 1% of total revenue** despite an AOV of $35 cheaper than Apple AirPods. This suggests that lower price alone hasn’t translated into higher demand.
-
-•	**Apple Iphone surprisingly underperformed** while its other 2 products have been wildly successful. This could possibly be due to consumer preference for smartphone selection or higher competition and pricing in the smartphone market.
+•*Apple iPhone* and *Bose SoundSport Headphones* contributed to **<1% of total revenue**, both products underperformed despite Bose having an **AOV $35 lower** than its competitor, *Apple AirPods*. In contrast, *Apple AirPods* and the *MacBook Air Laptop* were **top sellers**, highlighting that **lower pricing** and **brand recognition** don’t always lead to **higher sales**
 
 •	**The top 4 products all saw a sharp positive spike in 2020 YoY growth**, with MacBook Air Laptop showing the strongest jump at **384%** followed by ThinkPad Laptop at **222%** likely driven by remote work and e-learning needs during the pandemic. 
 
