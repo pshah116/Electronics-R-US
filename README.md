@@ -89,7 +89,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 ## Regional Analysis
 • **North America was the most dominant overall region in total sales, contributing to over $14M in total sales** and **generating over 91% of its regional sales from the U.S.** alone. Despite a YoY dip in 2021 and 2022, its overall **market strength consistently remained above 50%** total sales revenue from 2019-2022. 
 
-•**North America and EMEA had the highest sales by region** however **APAC had the highest compound growth rate** across the 4-year span (In 2020 they outperformed every region with a YoY 213% growth), showing early explosive expansion.
+•**North America and EMEA had the highest sales by region** however **APAC had the highest compound growth rate** across the 4-year span (In 2020 they **outperformed every region with a 213% YoY growth**), showing early explosive expansion.
 
 •The **27-inch 4K Gaming Monitor was a global bestseller**, leading in **16 out of the 21 countries**, making it a key product to continue pushing in both mature and emerging markets.
 ![2025-07-08_12h56_02](https://github.com/user-attachments/assets/ceaad4e0-4088-4a3a-9c2a-0daa75125b7c)
