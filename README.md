@@ -11,7 +11,7 @@ Electronics R US , a sample e-commerce company that launched in 2019, has rapidl
 
 •	Which months and products performed the best / worst? Is there seasonality?
 
-•How has the loyalty program impacted AOV, customer growth, and engagement over time?	
+•Should we continue the loyalty program? How has the loyalty program impacted AOV, customer growth, and engagement over time?	
 
 •	What are the refund rates for different products and how does it compare between loyalty and non-loyalty customers? What regions experienced the highest refund rates?
 
