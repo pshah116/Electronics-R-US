@@ -103,7 +103,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 ## Recommendations
 **Product Outreach:** 
 
-• Diversify the product mix — over **95% of revenue** comes from just four products (Gaming Monitor, MacBook Air Laptop, AirPods, ThinkPad Laptop).
+• Diversify the product catalog — over **95% of revenue** comes from just four products (Gaming Monitor, MacBook Air Laptop, AirPods, ThinkPad Laptop).
 
 • Reposition or discontinue low-performers like **Bose SoundSport Headphones**, which made up only 0.01% of sales over 4 years.
 
