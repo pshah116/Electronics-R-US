@@ -76,7 +76,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 • **Loyalty members contributed over $10M in total revenue**, while **non-loyalty members generated over $17M**. However, in **2021 and 2022 loyalty members outperformed non-members generating over $1.6M more in revenue** during that period.
 
-• **Loyalty members had a higher AOV in 2022 at $244.79 vs. $214.11 for non-loyalty members**, showing improved spend-per-order, despite **non-loyalty AOV peaking in 2020 at $345.28** **Loyalty members have consistenly increased in AOV after 2020** wheras **non-loyalty members** have shown a **decline**.
+• **In 2022, loyalty members had a higher AOV ($244.79) vs. non-loyalty members ($214.11)**, despite non-loyalty peaking at **$345.28 in 2020**. **Loyalty AOV rose steadily from 2019–2021, with only a slight dip in 2022**, still outperforming non-loyalty members. **Non-loyalty members** have **consistently declined in AOV since 2020**.
 
 • **Loyalty sign-ups surged from ~2,000 in 2019 to ~17,000 in 2021**, outpacing non-loyalty growth that year. While **2022 saw slower growth**, loyalty still brought in more new customers.
 
