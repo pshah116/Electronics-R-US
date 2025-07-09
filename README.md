@@ -125,6 +125,6 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 **Refund monitoring:**
 
-•Investigate the high return rates for **MacBook Air Laptop** and **Apple AirPods Headphones** from 2020 using feedback and return reason data. Enhance post-purchase experience and durability to sustain **0% refund rate** achieved in 2022.
+•Investigate why loyalty members had a higher then average refund rate in 2021 compared to non-loyalty members. Enhance post-purchase experience and durability to sustain **0% refund rate** achieved in 2022.
 
 
