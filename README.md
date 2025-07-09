@@ -115,11 +115,12 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 **Loyalty Program Performance:**
 
-• Continue investing in loyalty members they drove stronger results in 2021–2022 across orders, revenue, and AOV.
+• Continue investing in loyalty members. They drove stronger results in 2021–2022 in revenue, total orders, and AOV.
 
 • Prioritize direct and email marketing channels, as they have driven the highest number of signups and demonstrate strong conversion rates:
 
 --Direct Marketing Channel **signup rate 40%** with **23.5K** signups 
+
 --Email Marketing Channel **signup rate 59%** with **8K** signups
 
 **Refund monitoring:**
