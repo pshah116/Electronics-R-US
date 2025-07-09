@@ -103,7 +103,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 ## Recommendations
 **Product Outreach:** 
 
-• Diversify the product catalog — over **95% of revenue** comes from just four products (Gaming Monitor, MacBook Air Laptop, AirPods, ThinkPad Laptop).
+• Diversify the product catalog — over **95% of revenue** comes from just four products.Consider **expanding into high-margin accessories** like Apple charging cables and premium Samsung accessories to capture more profit.
 
 • Reposition or discontinue low-performers like **Bose SoundSport Headphones**, which made up only 0.01% of sales over 4 years.
 
@@ -125,8 +125,8 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 **Refund monitoring:**
 
-•Investigate what concerns loyalty members are facing to understand what is driving their higher refund rates.
+•Use **return reason feedback** to **investigate** why loyalty members are having higher refund rates.
 
-•Enhance post-purchase experience and durability to sustain **0% refund rate** achieved in 2022.
+•**Enhance post-purchase experience** through **faster support**, **better product instructions**, and **packaging improvements** to **sustain the 0% refund rate** achieved in 2022
 
 
