@@ -115,7 +115,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 **Loyalty Program Performance:**
 
-• Continue investing in loyalty members. They drove stronger results in 2021–2022 in revenue, total orders, and AOV.
+• Continue investing in loyalty members. They drove stronger results in 2021–2022 in revenue, total orders, and AOV compared to non-loyalty members.
 
 • Prioritize direct and email marketing channels, as they have driven the highest number of signups and demonstrate strong conversion rates:
 
