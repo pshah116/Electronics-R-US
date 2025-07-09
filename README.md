@@ -59,9 +59,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 •*Apple iPhone* and *Bose SoundSport Headphones* contributed to **<1% of total revenue**, both products underperformed despite Bose having an **AOV $35 lower** than its competitor, *Apple AirPods*. In contrast, *Apple AirPods* and the *MacBook Air Laptop* were **top sellers**, highlighting that **lower pricing** and **brand recognition** don’t always lead to **higher sales**
 
-•	**The top 4 products all saw a sharp positive spike in 2020 YoY growth**, with MacBook Air Laptop showing the strongest jump at **384%** followed by ThinkPad Laptop at **222%** likely driven by remote work and e-learning needs during the pandemic. 
-
-• **In 2021 both products had the steepest declines** with **ThinkPad Laptop down 20%** and **MacBook Air Laptop down 35%** indicating possible market saturation or reduced demand.
+•	**The top 4 products all saw a sharp positive spike in 2020 YoY growth**, with MacBook Air Laptop showing the strongest jump at **384%** followed by ThinkPad Laptop at **222%** likely driven by remote work and e-learning needs during the pandemic. **In 2021 both products had the steepest declines**  indicating possible market saturation or reduced demand.
 ![2025-07-08_12h09_57](https://github.com/user-attachments/assets/f978c0d6-f53c-4b69-adcf-67a0dc246ea1)
 
 ![2025-07-08_12h14_23](https://github.com/user-attachments/assets/5cb63eda-f0de-4ce9-b603-9fefe65b8b2a)
@@ -73,7 +71,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 • **In 2022, loyalty members had a higher AOV ($244.79) vs. non-loyalty members ($214.11)**, despite non-loyalty peaking at **$345.28 in 2020**. **Loyalty AOV rose steadily from 2019–2021, with a slight dip in 2022**, but still outperformed non-loyalty members. **Non-loyalty members** have **consistently declined in AOV since 2020**.
 
-• **Loyalty sign-ups surged from ~2,000 in 2019 to ~17,000 in 2021**, outpacing non-loyalty growth that year. While **2022 saw slower growth**, loyalty still brought in more new customers.
+•**Loyalty sign-ups surged by 946% from ~1,600 in 2019 to ~16,700 in 2021**, vastly outpacing the 11% growth in non-loyalty sign-ups. While **2022 saw slower growth, loyalty still attracted 13.4% more new users than non-loyalty members that year**.
 
 ![2025-07-08_12h37_58](https://github.com/user-attachments/assets/44d98007-7e48-4d56-9dd3-c3155de3e374)
 
