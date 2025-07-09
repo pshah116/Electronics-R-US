@@ -115,28 +115,28 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 ## Recommendations
 **Product Outreach:** 
 
-• Diversify the product mix. Over 85% of total revenue is concentrated in just three products: the 27" Gaming Monitor, MacBook Air Laptop, and Apple AirPod Headphones. This limits growth potential. Consider expanding more products similar to these to expand growth.
+• Diversify the product mix — over **85% of revenue** comes from just three products (Gaming Monitor, MacBook Air, AirPods).
 
-• Discontinue or reposition low-performing products such as Bose SoundSport Headphones which contributed only 0.01% of total sales over 4 years. Bundle this product with compatible devices or offer clearance pricing to reduce excess inventory.
+• Reposition or discontinue low-performers like **Bose SoundSport Headphones**, which made up only 0.01% of sales over 4 years.
 
 **Global Impact:**
 
-•	Focus resources on high-revenue markets. North America and EMEA generated >75% of dominant sales share. Continue investing in these regions while exploring growth opportunities in LATAM and APAC through localized campaigns and pricing adjustments.
+•Focus investment in **North America and EMEA** (>75% of total sales), while expanding efforts in **LATAM and APAC** through localized campaigns.
 
-•	Maximize potential in high-AOV countries  like Australia ($392 AOV), Denmark ($353), and Israel ($302) present opportunities for premium product upsells or bundles due to their demonstrated willingness to spend more per transaction
+•Upsell premium products in **high AOV markets like Australia ($392), Denmark ($353)**, and **Israel ($302)**.
 
 **Loyalty Program Performance:**
 
-• Continue investing in the loyalty program, as members outperformed non-members in 2021 and 2022 across key KPIs such as higher total orders, greater sales, and stronger average order value(AOV).
+• Continue investing in loyalty members they drove stronger results in 2021–2022 across orders, revenue, and AOV.
 
-• Prioritize direct and email channels, as they have driven the highest number of signups and demonstrate strong conversion rates:
---Direct Marketing Channel signup rate 40% with 23.5K signups 
---Email Marketing Channel signup rate 59% with 8K signups
+• Prioritize direct and email marketing channels, as they have driven the highest number of signups and demonstrate strong conversion rates:
+--Direct Marketing Channel **signup rate 40%** with **23.5K** signups 
+--Email Marketing Channel **signup rate 59%** with **8K** signups
 
 **Refund monitoring:**
 
-•Investigate recurring issues with MacBook Air Laptops and Apple AirPods Headphones by reviewing customer feedback, and return reasons to identify root causes and implement product or service improvement.
+•Investigate the high return rates for **MacBook Air Laptop** and **Apple AirPods Headphones** from 2020 using feedback and return reason data.
 
-•Optimize the post-purchase service experience and improve product durability to sustain low refunds. With zero refunds reported in 2022, maintaining this standard should be a continued priority.
+•Enhance post-purchase experience and durability to sustain **0% refund rate** achieved in 2022.
 
 
