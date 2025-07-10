@@ -32,7 +32,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 • **Refund rates peaked at 44% in 2020**, but declined significantly to **17.15% in 2021** and **0% in 2022**.
 
-• Regional performance was led by **North America (NA) with $14.5M+ in total sales**. EMEA followed with **~$8.2M**, and **together these regions drove over 75% of global revenue**.
+• Regional performance was led by **North America (NA) with $14.5M+ in total sales driving >50% of total revenue**
 
 • After 2020, the **loyalty program showed a consistent increase** in new members in **2021** and **2022**, and **outperformed non-loyalty members** in **revenue**, **order count**, and achieved a **higher AOV in 2022**.
 
