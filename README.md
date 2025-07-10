@@ -14,7 +14,7 @@ Electronics-R-US , a sample e-commerce company that launched in 2019, has rapidl
 
 •	How are the sales across regions? Are the regions with the highest spike the same regions responsible for the highest sales dollars?
 
-## ERD 
+## Dataset Structure 
 The database consists of four tables: orders, customers, geo_lookup, and order_status, with 108,127 rows of record
 ![2025-07-08_14h55_01](https://github.com/user-attachments/assets/35305e83-8b7f-433e-8390-dfeb602e5e28)
 
