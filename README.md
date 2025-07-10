@@ -66,7 +66,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 • **In 2022, loyalty members had a higher AOV ($244.79) vs. non-loyalty members ($214.11)**, despite non-loyalty peaking at **$345.28 in 2020**. **Loyalty AOV rose steadily from 2019–2021, with a slight dip in 2022**, but still outperformed non-loyalty members. **Non-loyalty members** have **consistently declined in AOV since 2020**.
 
-•**Loyalty sign-ups surged by 946% from ~1,600 in 2019 to ~16,700 in 2021**, vastly outpacing the 11% growth in non-loyalty sign-ups. While **2022 saw slower growth, loyalty still attracted 13.4% more new users than non-loyalty members that year**.
+•**Loyalty sign-ups surged by 946% from ~1,600 in 2019 to ~16,700 in 2021**, vastly outpacing the 11% growth in non-loyalty sign-ups. While **2022 saw slower growth, loyalty sign-ups still grew 13.4% more in new users than non-loyalty members** that year.
 
 ![2025-07-08_12h37_58](https://github.com/user-attachments/assets/44d98007-7e48-4d56-9dd3-c3155de3e374)
 
