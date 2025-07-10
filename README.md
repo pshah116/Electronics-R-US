@@ -45,7 +45,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 •**2020 saw record-breaking growth** with YoY **revenue up 162% overall**, **AOV up 31%**, and **order count up 101%**. From **April 2020 to August 2020**, each month **exceeded 200% YoY monthly sales growth**. **August 2020** marked the peak, **achieving a 214% YoY revenue surge**.
 
-•	**2022 shows significant declines** in all KPIs, especially in Q4 showing **YoY total sales dropping >70%**, indicating either market saturation, economic slowdown, or reduced promotional effectiveness.
+•	**2022 shows significant declines** in all KPIs(revenue,AOV,orders), especially in Q4 showing **YoY total sales dropping >70%**, indicating either market saturation, economic slowdown, or reduced promotional effectiveness.
 
 ![2025-07-08_12h05_47](https://github.com/user-attachments/assets/41c74ad7-8b02-4081-a9eb-7da6d0fcbc9b)
 
