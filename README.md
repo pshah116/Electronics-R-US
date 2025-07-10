@@ -26,11 +26,9 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 ## Executive Summary
 
-• **From 2019 to 2022, total sales exceeded $28.1M**, with **108K orders** and an **average order value (AOV) of $260.06**. Average yearly revenue was **$7M**, and average yearly orders were **27K**. **2020 was the highest performing year in revenue and AOV**, generating **$10M+ in sales** and an **AOV of $300.16**.
+• **From 2019 to 2022, total sales exceeded $28.1M**, with **108K orders** and an **average order value (AOV) of $260.06**. Average yearly revenue was **$7M**, and average yearly orders were **27K**. **2020 was the highest performing year** generating **10M+ in sales** and an **AOV of $300.16**.
 
 • **2021 recorded the highest order volume with 35,858**.
-
-• **In 2020, sales revenue grew by 162% YoY**, alongside a **31% AOV increase** and a **101% surge in order count**. **August 2020 achieved the best YoY monthly performance with a 214% revenue increase**.
 
 • **Refund rates peaked at 44% in 2020**, but declined significantly to **17.15% in 2021** and **0% in 2022**.
 
@@ -45,8 +43,11 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 •	Across all years, there is a strong **seasonal peak in Q4** with **November & December consistently outperforming** in sales, following a sales dip in October, this is possibly attributed to the holiday shopping seasonality (Black Friday and year-end promotions).
 
+**2020 had the highest YoY growth in revenue (162%)**, alongside a **31% AOV increase** and a **101% surge in order count**. **August 2020 achieved the best YoY monthly performance with a 214% revenue increase**.
 
-•	**2020 experienced the highest growth in every month for all major KPI's such as total sales, order count, and AOV.** This is likely influenced by pandemic-driven e-commerce surges. Notably, **April-August 2020 each had >200% YoY monthly sales growth**, suggesting a strong mid-year acceleration.
+
+
+•	**April-August 2020 each had >200% YoY monthly sales growth**, suggesting a strong mid-year acceleration.
 
 •	**2022 shows significant declines** in all KPIs, especially in Q4 showing **YoY total sales dropping >70%**, indicating either market saturation, economic slowdown, or reduced promotional effectiveness.
 
