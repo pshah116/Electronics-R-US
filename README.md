@@ -43,9 +43,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 •	Across all years, there is a strong **seasonal peak in Q4** with **November & December consistently outperforming** in sales, following a sales dip in October, this is possibly attributed to the holiday shopping seasonality (Black Friday and year-end promotions).
 
-**2020 had the highest YoY growth in revenue (162%)**, alongside a **31% AOV increase** and a **101% surge in order count**. **August 2020 achieved the best YoY monthly performance with a 214% revenue increase**.
-
-
+**2020 saw record-breaking growth** with YoY **revenue up 162% overall**, **AOV up 31%**, and **order count up 101%**. From **April 2020 to August 2020**, each month **exceeded 200% YoY monthly sales growth**. **August 2020** marked the peak, **achieving a 214% YoY revenue surge**.
 
 •	**April-August 2020 each had >200% YoY monthly sales growth**, suggesting a strong mid-year acceleration.
 
