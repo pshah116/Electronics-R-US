@@ -15,9 +15,7 @@ Electronics-R-US , a sample e-commerce company that launched in 2019, has rapidl
 
 •	What are the refund rates for different products and how does it compare between loyalty and non-loyalty customers? What regions experienced the highest refund rates?
 
-•	How are the sales across regions? 
-
-•	Are the regions with the highest spike the same regions responsible for the highest sales dollars?
+•	How are the sales across regions? Are the regions with the highest spike the same regions responsible for the highest sales dollars?
 
 ## ERD 
 The database consists of four tables: orders, customers, geo_lookup, and order_status, with 108,127 rows of record
@@ -34,7 +32,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 • Regional performance was led by **North America (NA) with $14.5M+ in total sales driving >50% of total revenue**
 
-• After 2020, the **loyalty program showed a consistent increase** in new members in **2021** and **2022**, and **outperformed non-loyalty members** in **revenue**, **order count**, and achieved a **higher AOV in 2022**.
+• After 2020, **loyalty members outperformed non-loyalty members** in **revenue**, **order count**, and achieved a **higher AOV in 2022**.
 
 • **Top 3 selling products** were the *27" 4K Gaming Monitor*, *Apple AirPods Headphones*, and *MacBook Air Laptop*.
 
