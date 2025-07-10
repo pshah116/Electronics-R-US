@@ -28,7 +28,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 • **From 2019 to 2022, total sales exceeded $28.1M**, with **108K orders** and an **average order value (AOV) of $260.06**. Average yearly revenue was **$7M**, and average yearly orders were **27K**. **2020 was the highest performing year** generating **10M+ in sales** and an **AOV of $300.16**.
 
-• **2021 recorded the highest order volume with 35,858 total orders**
+• **2021 recorded the highest order volume with 35,858 total orders**.
 
 • **Refund rates peaked at 44% in 2020**, but declined significantly to **17.15% in 2021** and **0% in 2022**.
 
@@ -36,7 +36,7 @@ The database consists of four tables: orders, customers, geo_lookup, and order_s
 
 • After 2020, the **loyalty program showed a consistent increase** in new members in **2021** and **2022**, and **outperformed non-loyalty members** in **revenue**, **order count**, and achieved a **higher AOV in 2022**.
 
-• **Top 3 selling products** were the *27" 4K Gaming Monitor*, *Apple AirPods Headphones*, and *MacBook Air Laptop*
+• **Top 3 selling products** were the *27" 4K Gaming Monitor*, *Apple AirPods Headphones*, and *MacBook Air Laptop*.
 
 ## Deep Dive Insights
 **Sales Trends:**
